@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8aaf187b7a9e3264f941a82dbaaaade1
+timeCreated: 1601981344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180508
+  packageName: Realistic Car HD 06
+  packageVersion: 1.0
+  assetPath: Assets/RealisticCars_HD/RealisticCar06_HD/Meshes/Materials/Car06_LightsEmissive.mat
+  uploadId: 394551

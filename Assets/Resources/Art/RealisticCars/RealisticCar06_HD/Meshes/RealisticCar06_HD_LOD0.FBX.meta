@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: c70dc755205c74f4b81f9df899d150e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car06_Body
+    100004: Car06_Body_LOD0
+    100006: Car06_BrakeCaliper_Front_Left
+    100008: Car06_BrakeCaliper_Front_Right
+    100010: Car06_BrakeCaliper_FrontLeft_LOD0
+    100012: Car06_BrakeCaliper_FrontRight_LOD0
+    100014: Car06_BrakeCaliper_Rear_Left
+    100016: Car06_BrakeCaliper_Rear_Right
+    100018: Car06_BrakeCaliper_RearLeft_LOD0
+    100020: Car06_BrakeCaliper_RearRight_LOD0
+    100022: Car06_BrakeDisc_FrontLeft_LOD0
+    100024: Car06_BrakeDisc_FrontRight_LOD0
+    100026: Car06_BrakeDisc_RearLeft_LOD0
+    100028: Car06_BrakeDisc_RearRight_LOD0
+    100030: Car06_Door_Left
+    100032: Car06_Door_Left_LOD0
+    100034: Car06_Door_Right
+    100036: Car06_Door_Right_LOD0
+    100038: Car06_Glass_LOD0
+    100040: Car06_Interior
+    100042: Car06_Interior_LOD0
+    100044: Car06_Interior_RPM_LOD0
+    100046: Car06_Interior_RPM_Pointer
+    100048: Car06_Interior_Speed_LOD0
+    100050: Car06_Interior_Speed_Pointer
+    100052: Car06_Interior_SteeringWheel
+    100054: Car06_Interior_SteeringWheel_LOD0
+    100056: Car06_Wheel_Front_Left
+    100058: Car06_Wheel_Front_Left_LOD0
+    100060: Car06_Wheel_Front_Right
+    100062: Car06_Wheel_Front_Right_LOD0
+    100064: Car06_Wheel_Rear_Left
+    100066: Car06_Wheel_Rear_Left_LOD0
+    100068: Car06_Wheel_Rear_Right
+    100070: Car06_Wheel_Rear_Right_LOD0
+    100072: Car06_Wiper01
+    100074: Car06_Wiper02
+    100076: Car06_Wiper_Right_LOD0
+    100078: Car06_WiperLeft_LOD0
+    400000: //RootNode
+    400002: Car06_Body
+    400004: Car06_Body_LOD0
+    400006: Car06_BrakeCaliper_Front_Left
+    400008: Car06_BrakeCaliper_Front_Right
+    400010: Car06_BrakeCaliper_FrontLeft_LOD0
+    400012: Car06_BrakeCaliper_FrontRight_LOD0
+    400014: Car06_BrakeCaliper_Rear_Left
+    400016: Car06_BrakeCaliper_Rear_Right
+    400018: Car06_BrakeCaliper_RearLeft_LOD0
+    400020: Car06_BrakeCaliper_RearRight_LOD0
+    400022: Car06_BrakeDisc_FrontLeft_LOD0
+    400024: Car06_BrakeDisc_FrontRight_LOD0
+    400026: Car06_BrakeDisc_RearLeft_LOD0
+    400028: Car06_BrakeDisc_RearRight_LOD0
+    400030: Car06_Door_Left
+    400032: Car06_Door_Left_LOD0
+    400034: Car06_Door_Right
+    400036: Car06_Door_Right_LOD0
+    400038: Car06_Glass_LOD0
+    400040: Car06_Interior
+    400042: Car06_Interior_LOD0
+    400044: Car06_Interior_RPM_LOD0
+    400046: Car06_Interior_RPM_Pointer
+    400048: Car06_Interior_Speed_LOD0
+    400050: Car06_Interior_Speed_Pointer
+    400052: Car06_Interior_SteeringWheel
+    400054: Car06_Interior_SteeringWheel_LOD0
+    400056: Car06_Wheel_Front_Left
+    400058: Car06_Wheel_Front_Left_LOD0
+    400060: Car06_Wheel_Front_Right
+    400062: Car06_Wheel_Front_Right_LOD0
+    400064: Car06_Wheel_Rear_Left
+    400066: Car06_Wheel_Rear_Left_LOD0
+    400068: Car06_Wheel_Rear_Right
+    400070: Car06_Wheel_Rear_Right_LOD0
+    400072: Car06_Wiper01
+    400074: Car06_Wiper02
+    400076: Car06_Wiper_Right_LOD0
+    400078: Car06_WiperLeft_LOD0
+    2300000: //RootNode
+    2300002: Car06_Body_LOD0
+    2300004: Car06_BrakeCaliper_FrontLeft_LOD0
+    2300006: Car06_BrakeCaliper_FrontRight_LOD0
+    2300008: Car06_BrakeCaliper_RearLeft_LOD0
+    2300010: Car06_BrakeCaliper_RearRight_LOD0
+    2300012: Car06_BrakeDisc_FrontLeft_LOD0
+    2300014: Car06_BrakeDisc_FrontRight_LOD0
+    2300016: Car06_BrakeDisc_RearLeft_LOD0
+    2300018: Car06_BrakeDisc_RearRight_LOD0
+    2300020: Car06_Door_Left_LOD0
+    2300022: Car06_Door_Right_LOD0
+    2300024: Car06_Glass_LOD0
+    2300026: Car06_Interior_LOD0
+    2300028: Car06_Interior_RPM_LOD0
+    2300030: Car06_Interior_Speed_LOD0
+    2300032: Car06_Interior_SteeringWheel_LOD0
+    2300034: Car06_Wheel_Front_Left_LOD0
+    2300036: Car06_Wheel_Front_Right_LOD0
+    2300038: Car06_Wheel_Rear_Left_LOD0
+    2300040: Car06_Wheel_Rear_Right_LOD0
+    2300042: Car06_Wiper_Right_LOD0
+    2300044: Car06_WiperLeft_LOD0
+    3300000: //RootNode
+    3300002: Car06_Body_LOD0
+    3300004: Car06_BrakeCaliper_FrontLeft_LOD0
+    3300006: Car06_BrakeCaliper_FrontRight_LOD0
+    3300008: Car06_BrakeCaliper_RearLeft_LOD0
+    3300010: Car06_BrakeCaliper_RearRight_LOD0
+    3300012: Car06_BrakeDisc_FrontLeft_LOD0
+    3300014: Car06_BrakeDisc_FrontRight_LOD0
+    3300016: Car06_BrakeDisc_RearLeft_LOD0
+    3300018: Car06_BrakeDisc_RearRight_LOD0
+    3300020: Car06_Door_Left_LOD0
+    3300022: Car06_Door_Right_LOD0
+    3300024: Car06_Glass_LOD0
+    3300026: Car06_Interior_LOD0
+    3300028: Car06_Interior_RPM_LOD0
+    3300030: Car06_Interior_Speed_LOD0
+    3300032: Car06_Interior_SteeringWheel_LOD0
+    3300034: Car06_Wheel_Front_Left_LOD0
+    3300036: Car06_Wheel_Front_Right_LOD0
+    3300038: Car06_Wheel_Rear_Left_LOD0
+    3300040: Car06_Wheel_Rear_Right_LOD0
+    3300042: Car06_Wiper_Right_LOD0
+    3300044: Car06_WiperLeft_LOD0
+    4300000: Cylinder003
+    4300002: Cylinder005
+    4300004: Object167
+    4300006: Car06_Interior_RPM_LOD0
+    4300008: Car06_Interior_Speed_LOD0
+    4300010: Car06_Interior_SteeringWheel_LOD0
+    4300012: Car06_Interior_LOD0
+    4300014: Car06_WiperLeft_LOD0
+    4300016: Car06_Wiper_Right_LOD0
+    4300018: Car06_Door_Right_LOD0
+    4300020: Car06_Door_Left_LOD0
+    4300022: Car06_Glass_LOD0
+    4300024: Car06_Body_LOD0
+    4300026: Car06_BrakeDisc_FrontRight_LOD0
+    4300028: Car06_Wheel_Front_Right_LOD0
+    4300030: Car06_BrakeCaliper_FrontRight_LOD0
+    4300032: Car06_BrakeDisc_FrontLeft_LOD0
+    4300034: Car06_Wheel_Front_Left_LOD0
+    4300036: Car06_BrakeDisc_RearLeft_LOD0
+    4300038: Car06_Wheel_Rear_Left_LOD0
+    4300040: Car06_BrakeCaliper_RearLeft_LOD0
+    4300042: Car06_BrakeCaliper_RearRight_LOD0
+    4300044: Car06_BrakeDisc_RearRight_LOD0
+    4300046: Car06_Wheel_Rear_Right_LOD0
+    4300048: Car06_BrakeCaliper_FrontLeft_LOD0
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Body01
+    second: {fileID: 2100000, guid: 12873b23c3608eb449da3262f09e0d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Glass01
+    second: {fileID: 2100000, guid: 679eabbeb406acd4c92c68242062576e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Grill01
+    second: {fileID: 2100000, guid: 000091bbf6d1dd44fa18f47b04022066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Interior01
+    second: {fileID: 2100000, guid: 046cfbc4af9ee884cb3f14337c74b737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Parts01
+    second: {fileID: 2100000, guid: 01d98a520c0df424e9ccd94ff9d38299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Wheel01
+    second: {fileID: 2100000, guid: 8b7b401fec88ef84693a8731aefac511, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180508
+  packageName: Realistic Car HD 06
+  packageVersion: 1.0
+  assetPath: Assets/RealisticCars_HD/RealisticCar06_HD/Meshes/RealisticCar06_HD_LOD0.FBX
+  uploadId: 394551

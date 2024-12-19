@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e543c65813d27c499334e1e22b6f6b4
+timeCreated: 1512119447
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106298
+  packageName: Spark particles
+  packageVersion: 1.01
+  assetPath: Assets/Sparks_Particles/Materials/TX_Capsule_01_Add.mat
+  uploadId: 474228

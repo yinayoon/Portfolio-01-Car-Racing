@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 398bb4eee2aae7c4d94fdba55a4fb9f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car06_Interior_LOD0
+    100002: Car06_Interior_LOD1
+    100004: Car06_Interior_LOD2
+    100006: Car06_Interior_LOD3
+    100008: Car06_Interior_RPM_LOD0
+    100010: Car06_Interior_RPM_LOD1
+    100012: Car06_Interior_RPM_Pointer
+    100014: Car06_Interior_Speed_LOD0
+    100016: Car06_Interior_Speed_LOD1
+    100018: Car06_Interior_Speed_Pointer
+    100020: Car06_Interior_SteeringWheel
+    100022: Car06_Interior_SteeringWheel_LOD0
+    100024: Car06_Interior_SteeringWheel_LOD1
+    100026: Car06_Interior_SteeringWheel_LOD2
+    100028: //RootNode
+    400000: Car06_Interior_LOD0
+    400002: Car06_Interior_LOD1
+    400004: Car06_Interior_LOD2
+    400006: Car06_Interior_LOD3
+    400008: Car06_Interior_RPM_LOD0
+    400010: Car06_Interior_RPM_LOD1
+    400012: Car06_Interior_RPM_Pointer
+    400014: Car06_Interior_Speed_LOD0
+    400016: Car06_Interior_Speed_LOD1
+    400018: Car06_Interior_Speed_Pointer
+    400020: Car06_Interior_SteeringWheel
+    400022: Car06_Interior_SteeringWheel_LOD0
+    400024: Car06_Interior_SteeringWheel_LOD1
+    400026: Car06_Interior_SteeringWheel_LOD2
+    400028: //RootNode
+    2300000: Car06_Interior_LOD0
+    2300002: Car06_Interior_LOD1
+    2300004: Car06_Interior_LOD2
+    2300006: Car06_Interior_LOD3
+    2300008: Car06_Interior_RPM_LOD0
+    2300010: Car06_Interior_RPM_LOD1
+    2300012: Car06_Interior_Speed_LOD0
+    2300014: Car06_Interior_Speed_LOD1
+    2300016: Car06_Interior_SteeringWheel_LOD0
+    2300018: Car06_Interior_SteeringWheel_LOD1
+    2300020: Car06_Interior_SteeringWheel_LOD2
+    3300000: Car06_Interior_LOD0
+    3300002: Car06_Interior_LOD1
+    3300004: Car06_Interior_LOD2
+    3300006: Car06_Interior_LOD3
+    3300008: Car06_Interior_RPM_LOD0
+    3300010: Car06_Interior_RPM_LOD1
+    3300012: Car06_Interior_Speed_LOD0
+    3300014: Car06_Interior_Speed_LOD1
+    3300016: Car06_Interior_SteeringWheel_LOD0
+    3300018: Car06_Interior_SteeringWheel_LOD1
+    3300020: Car06_Interior_SteeringWheel_LOD2
+    4300000: Car06_Interior_RPM_LOD0
+    4300002: Car06_Interior_RPM_LOD1
+    4300004: Car06_Interior_Speed_LOD0
+    4300006: Car06_Interior_Speed_LOD1
+    4300008: Car06_Interior_SteeringWheel_LOD0
+    4300010: Car06_Interior_SteeringWheel_LOD1
+    4300012: Car06_Interior_SteeringWheel_LOD2
+    4300014: Car06_Interior_LOD0
+    4300016: Car06_Interior_LOD1
+    4300018: Car06_Interior_LOD2
+    4300020: Car06_Interior_LOD3
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Body01
+    second: {fileID: 2100000, guid: 12873b23c3608eb449da3262f09e0d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Glass01
+    second: {fileID: 2100000, guid: 679eabbeb406acd4c92c68242062576e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Interior01
+    second: {fileID: 2100000, guid: 046cfbc4af9ee884cb3f14337c74b737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car06_Parts01
+    second: {fileID: 2100000, guid: 01d98a520c0df424e9ccd94ff9d38299, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180508
+  packageName: Realistic Car HD 06
+  packageVersion: 1.0
+  assetPath: Assets/RealisticCars_HD/RealisticCar06_HD/Meshes/RealisticCar06_HD_Interior_RightHanded.FBX
+  uploadId: 394551
